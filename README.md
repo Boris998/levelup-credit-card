@@ -2,7 +2,7 @@
 
 ## Available Scripts
 
-In the project directory terminal, you can run:
+In the IDE's terminal, you can run:
 
 ### `mvn clean install`
 
